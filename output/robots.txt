@@ -1,0 +1,4 @@
+Sitemap: https://darkfoe703.github.io/web_test/sitemapindex.xml
+
+User-Agent: *
+Host: darkfoe703.github.io
