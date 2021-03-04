@@ -6,39 +6,39 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://example.com/categories/blog.xml</loc>
-  <lastmod>2021-03-04T15:13:00Z</lastmod>
+  <loc>https://darkfoe703.github.io/web_test/categories/blog.xml</loc>
+  <lastmod>2021-03-04T15:25:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/categories/cat_nikola.xml</loc>
-  <lastmod>2021-03-04T15:13:00Z</lastmod>
+  <loc>https://darkfoe703.github.io/web_test/categories/cat_nikola.xml</loc>
+  <lastmod>2021-03-04T15:25:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/categories/demo.xml</loc>
-  <lastmod>2021-03-04T15:13:00Z</lastmod>
+  <loc>https://darkfoe703.github.io/web_test/categories/demo.xml</loc>
+  <lastmod>2021-03-04T15:25:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/categories/nikola.xml</loc>
-  <lastmod>2021-03-04T15:13:00Z</lastmod>
+  <loc>https://darkfoe703.github.io/web_test/categories/nikola.xml</loc>
+  <lastmod>2021-03-04T15:25:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/categories/python.xml</loc>
-  <lastmod>2021-03-04T15:13:00Z</lastmod>
+  <loc>https://darkfoe703.github.io/web_test/categories/python.xml</loc>
+  <lastmod>2021-03-04T15:25:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/galleries/demo/rss.xml</loc>
-  <lastmod>2021-03-04T15:13:00Z</lastmod>
+  <loc>https://darkfoe703.github.io/web_test/galleries/demo/rss.xml</loc>
+  <lastmod>2021-03-04T15:25:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/galleries/rss.xml</loc>
-  <lastmod>2021-03-04T15:13:00Z</lastmod>
+  <loc>https://darkfoe703.github.io/web_test/galleries/rss.xml</loc>
+  <lastmod>2021-03-04T15:25:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/rss.xml</loc>
-  <lastmod>2021-03-04T15:13:00Z</lastmod>
+  <loc>https://darkfoe703.github.io/web_test/rss.xml</loc>
+  <lastmod>2021-03-04T15:25:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/sitemap.xml</loc>
-  <lastmod>2021-03-04T15:13:00Z</lastmod>
+  <loc>https://darkfoe703.github.io/web_test/sitemap.xml</loc>
+  <lastmod>2021-03-04T15:25:00Z</lastmod>
  </sitemap>
 </sitemapindex>
